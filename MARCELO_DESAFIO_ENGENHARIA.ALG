@@ -216,5 +216,4 @@ Escreval("Região de destino: Cidade ", Destino, ", região ", DestinoEscreva)
 Escreval("Código Loggi: ", CodLoggi)
 Escreval("Código do Vendedor do Produto: ", CodVendor)
 Escreval("Tipo do Produto: ", Produto)
-Escreval(".")
 Fimalgoritmo
